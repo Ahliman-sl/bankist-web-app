@@ -1,0 +1,16 @@
+{
+  "name": "bankist_app",
+  "version": "1.0.0",
+  "description": "Bankist web application",
+  "main": "script.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahliman Suleymanli",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
